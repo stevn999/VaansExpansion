@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "KerbalWebProgram": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "commandLineArgs": "./Dev.ps1",
+      "workingDirectory": "D:\\SteamLibrary\\steamapps\\common\\Kerbal Space Program 2"
+    }
+  }
+}
